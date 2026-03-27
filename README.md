@@ -13,10 +13,15 @@
 ## 👨‍💻 About Me
 
 🔭 Working on Telegram Bots and Data Analytics projects using Tableau
+
 🌱 Currently learning AI, Machine Learning & Deep Learning
+
 💬 Ask me about Java, Python, SQL, Tableau, or Web Development
+
 🧠 Strong in Java, Python, SQL
+
 📫 Reach me at: [balajimakkena08@gmail.com](mailto:balajimakkena08@gmail.com)
+
 ⚡ Fun fact: I love building real-world projects and turning ideas into dashboards & apps!
 
 ---
