@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Balaji Makkena
 
-🎓 B.Tech (3rd year) – Computer Science                                               
+🎓 B.Tech (3rd year) – Computer Science
 🏫 VIshnu Institute of Technology
 
 ---
@@ -40,12 +40,21 @@ I enjoy building real-world applications, developing chatbots, and creating insi
 * Data Visualization
 * Dashboard Creation
 
+### 🤖 AI / ML (Currently Learning)
+
+* Machine Learning (Supervised & Unsupervised Basics)
+* Deep Learning Fundamentals
+* Data Preprocessing & Feature Engineering
+* Model Evaluation Techniques
+
 ### ⚙️ Tools & Technologies
 
 * Git & GitHub
 * Tableau
 * Docker
 * AWS (Basics)
+* Jupyter Notebook
+* VS Code
 
 ---
 
@@ -57,34 +66,9 @@ I enjoy building real-world applications, developing chatbots, and creating insi
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajimakkena&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajimakkena&layout=compact)
-
----
-
 ## 📫 Connect with Me
 
 * LinkedIn: [https://www.linkedin.com/in/makkena-balaji-7a762831a](https://www.linkedin.com/in/makkena-balaji-7a762831a)
 * Email: [balajimakkena08@gmail.com](mailto:balajimakkena08@gmail.com)
 
 ---
-
-
-<!--
-**Balajimakkena/balajimakkena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
