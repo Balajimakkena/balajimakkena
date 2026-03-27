@@ -1,8 +1,10 @@
-# Hi 👋, I'm Balaji Makkena
+<h1 align="center">Hi 👋, I'm Balaji Makkena</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Data+Analyst;AI+%26+ML+Enthusiast;Building+Real+World+Projects\&center=true\&width=500\&height=45)
+<p align="center">🚀 Aspiring Full Stack Developer & Data Analyst | AI & ML Enthusiast 🚀</p>
 
-🚀 Aspiring Full Stack Developer & Data Analyst | AI & ML Enthusiast 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Data+Analyst;AI+%26+ML+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=45" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=balajimakkena\&label=Profile%20views\&color=0e75b6\&style=flat)
 
