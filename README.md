@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Balaji Makkena
 
 🎓 B.Tech (3rd year) – Computer Science
-🏫 VIshnu Institute of Technology
+🏫 VIshnu Institute of Technology(Autonomous),Bhimavaram
 
 ---
 
